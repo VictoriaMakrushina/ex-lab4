@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 from librip.gens import field
 
 goods = [
@@ -9,3 +9,6 @@ goods = [
 ]
 
 # Реализация задания 1
+def lala():
+	a = 5
+	print(a)
